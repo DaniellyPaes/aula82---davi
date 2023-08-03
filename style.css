@@ -1,0 +1,15 @@
+#fundo{
+    background-image: url(fundo.png);
+    background-position: center;
+    background-size: cover;
+    }
+
+#canvas1{
+    background-color: rgb(241, 239, 239);
+    width: 800px;
+    height: 400px;
+}
+
+label{
+    /*dar uma cor mais clara para essas letras aparecessem*/
+}
